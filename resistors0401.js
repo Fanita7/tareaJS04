@@ -23,3 +23,4 @@ console.log(sumResitance([14,3.5,6]));
 console.log(sumResitance([8,15,100]));
 
 console.log("fanita, todo va a estar bien")
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)

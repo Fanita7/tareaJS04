@@ -23,3 +23,4 @@ function positiveDom(numeros){
 
 console.log(positiveDom([1, -3, -5, 4, 6767]));
 console.log(positiveDom([1, 2, -4, 32]));
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)

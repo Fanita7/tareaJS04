@@ -25,3 +25,5 @@ function arrayMultiplos(numero, arrLength){
 
 console.log(arrayMultiplos(2, 10));
 console.log(arrayMultiplos(17, 6));
+
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)

@@ -22,3 +22,4 @@ function numDivision (number){
 
 console.log(numDivision(4));
 console.log(numDivision(10));
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)

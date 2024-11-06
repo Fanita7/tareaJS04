@@ -21,3 +21,4 @@ function nombreSecreto(nombre) {
 console.log(nombreSecreto(["Esperanza", "Franco", "Nia"]));
 console.log(nombreSecreto(["Phoebe", "Ross", "Chandler","Joey", "Monica", "Rachel"]));
 console.log(nombreSecreto(["Harry", "Ron", "Hermione"]));
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)

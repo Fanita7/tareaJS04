@@ -50,3 +50,4 @@ function antipodalAverage(numeros){
 console.log(antipodalAverage([0, 1, 2, 3]));
 console.log(antipodalAverage([10, 20, 30, 40]));
 console.log(antipodalAverage([0, 1, 2, 3, 4]));
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)

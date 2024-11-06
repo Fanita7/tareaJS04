@@ -18,3 +18,4 @@ function onlineStatus(usuarios){
         }  
 }
 console.log(onlineStatus(['mockIng99', 'J0eyPunch', 'glassedFer']));
+//ya estoy harta de intentarlo como loca (eso de subir mis archivos a github y que no funcione)
